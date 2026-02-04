@@ -1,0 +1,35 @@
+{
+  "name": "note-taking",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUSHMACH53/note-taking-application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SUSHMACH53/note-taking-application/issues"
+  },
+  "homepage": "https://github.com/SUSHMACH53/note-taking-application#readme",
+  "description": ""
+}
+
+
+changes 
+
+1.  "test": "echo \"Error: no test specified\" && exit 1"
+
+2. "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SUSHMACH53/note-taking-application.git"
+  },
+
+3. "bugs": {
+    "url": "https://github.com/SUSHMACH53/note-taking-application/issues"
+  },
+  "homepage": "https://github.com/SUSHMACH53/note-taking-application#readme",
